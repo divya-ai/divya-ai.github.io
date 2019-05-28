@@ -41,7 +41,7 @@ article {
 	margin-top: 10px;
 }
 
-@media screen and (max-width: 670px) {
+@media screen and (max-width: 800px) {
 
 	article {
 	font-size: 4vw;
